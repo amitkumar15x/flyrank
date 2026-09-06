@@ -314,6 +314,8 @@ Portfolio: https://portfolio-realm.vercel.app/
 
 LinkedIn: https://www.linkedin.com/in/amitkumar15x/
 
+Capstone: https://amitkumar15.netlify.app/
+
 ---
 
 # 🙏 Acknowledgements
