@@ -325,5 +325,6 @@ Special thanks to:
 - FlyRank AI Fluency Program
 - FlyRank Mentors
 - Anthropic Claude
+- Flyrank
 
 for providing guidance, tools, and educational resources that supported the development of this capstone project.
